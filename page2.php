@@ -16,13 +16,13 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="page2.html">About Us</a>
+                <a class="nav-link" href="page2.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="page3.html"> Place Order</a>
+                <a class="nav-link" href="page3.php"> Place Order</a>
               </li>
              
             </ul>
